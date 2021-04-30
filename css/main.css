@@ -1,0 +1,45 @@
+body {
+   background-color: #00adcb; 
+}
+.container {
+   display: inline-block;
+   width: 800px;
+   background-color: yellow;
+   margin-top: 100px;
+   margin-left: calc((100% - 800px) / 2);
+}
+.left-column {
+ 
+   width: 40%;
+   background-color: #5c37a8;
+   float: left;
+}
+.main-title {
+display: inline-block;
+width: 100%;
+color: white;
+}
+.bottom-links {
+    display: inline-block;
+    width: 100%;
+    color: white;
+}
+.link {
+color: white;
+}
+.symbol {
+
+}
+.right-column {
+   
+    width: 60%;
+    background-color: #fff;
+    float: left;
+}
+
+.close {
+
+}
+.form {
+
+}
