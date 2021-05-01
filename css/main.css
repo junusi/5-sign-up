@@ -17,11 +17,15 @@ body {
    margin-left: calc((100% - 800px) / 2);
 }
 .left-column {
- 
+   height:400px ;
    width: 40%;
    padding: 40px;
    background-color: #5c37a8;
    float: left;
+   background-image: url(../img/hill.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
 }
 .main-title {
 display: inline-block;
